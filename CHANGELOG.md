@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [0.16.0] - 2023-01-20
+
+### Added
+
+- Add `width` and `height` HTML attributes for better SEO.
+
 ## [0.15.0] - 2022-09-08
 
 ### Added
